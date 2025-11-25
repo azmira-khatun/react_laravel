@@ -24,7 +24,7 @@ const Insert = () => {
   };
 
   return (
-    <div className="container py-5">
+    <div className="container mt-5">
       <div className="row g-4">
         {/* Form Card */}
         <div className="col-md-4">
